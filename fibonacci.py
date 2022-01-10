@@ -12,4 +12,4 @@ def print_fibonacci_numbers(n):
         number = new_number
         
  
-print(print_fibonacci_numbers(8))
+print_fibonacci_numbers(8)
